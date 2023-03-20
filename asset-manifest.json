@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/back-office.taria-space.com/static/css/main.98ec47ca.css",
+    "main.js": "/back-office.taria-space.com/static/js/main.2a4c78f3.js",
+    "static/js/496.32f6fd7b.chunk.js": "/back-office.taria-space.com/static/js/496.32f6fd7b.chunk.js",
+    "index.html": "/back-office.taria-space.com/index.html",
+    "main.98ec47ca.css.map": "/back-office.taria-space.com/static/css/main.98ec47ca.css.map",
+    "main.2a4c78f3.js.map": "/back-office.taria-space.com/static/js/main.2a4c78f3.js.map",
+    "496.32f6fd7b.chunk.js.map": "/back-office.taria-space.com/static/js/496.32f6fd7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98ec47ca.css",
+    "static/js/main.2a4c78f3.js"
+  ]
+}
